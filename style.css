@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 690px;
+    width: 1530px;
+    background-image: url("img/14-august-23-march-pakistan-independence-day-flag-badges-wallpaper-with-black-space-for-text-2RF5TDE.jpg");
+    background-size: cover;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+#countdown{
+    text-align: center;
+}
+
+#time{
+    font-size: 100px;
+    background-color: rgb(0, 255, 0);
+}
